@@ -1,3 +1,24 @@
+.lottery-head {
+  margin: auto;
+  text-align: center;
+  color: red;
+}
+
+.lottery-head {
+  color: #fbb93f;
+  background-color: black;
+}
+
+.foot-bg {
+  background-image: url("https://rare-gallery.com/thumbs/852748-dash-ripple-litecoin-monero-ethereum-Coins-Bitcoin.jpg");
+  height: auto;
+  width: auto;
+}
+
+.message {
+  color: #ffc0bc;
+}
+
 .App {
   text-align: center;
 }
